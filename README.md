@@ -1,2 +1,2 @@
-# neual-intuition
- 
+# Neural intuition
+
